@@ -1,0 +1,2 @@
+como vincular animacao ao modelo 3d, animacao fbx
+import os dois no blender, desative a armadura, usando shift selecione os dois, ctrl + l," selecione link material"
